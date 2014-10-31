@@ -5,7 +5,7 @@ Limited Infection Interview<br />
 <br /><br />
 Language of choice: Scala
 
-### How to Run
+## How to Run
   To compile the program, navigate to the root khanacademy/ folder and then run
     `scalac src/*.scala tests/*.scala`
 
