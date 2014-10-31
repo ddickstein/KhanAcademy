@@ -1,12 +1,8 @@
-///////////////////////////////////////////////////////////////////////////////
-//                                                                           //
-//  Dani Dickstein                                                           //
-//  Khan Academy                                                             //
-//  Limited Infection Interview                                              //
-//  10/30/14                                                                 //
-//                                                                           //
-///////////////////////////////////////////////////////////////////////////////
-
+Dani Dickstein<br />
+Khan Academy<br />
+Limited Infection Interview<br />
+10/30/14
+<br /><br />
 Language of choice: Scala
 
 How to Run
