@@ -12,7 +12,7 @@ Language of choice: Scala
   To run the tests, execute `scala khanacademy.tests.TestSuite`
 
   The tests provide some basic sample code for how to use the network infection
-  utility.  After creating a new `UserNetwork`, creating `User`s, and defining
+  utility.  After creating a new `UserNetwork`, creating users, and defining
   relationships between them, you can prepare the network for a new update
   by invoking `myNetwork.prepareVersion(version)`.
 
