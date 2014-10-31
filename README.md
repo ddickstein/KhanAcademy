@@ -6,10 +6,9 @@ Limited Infection Interview<br />
 Language of choice: Scala
 
 ## How to Run
-  To compile the program, navigate to the root khanacademy/ folder and then run
-    `scalac src/*.scala tests/*.scala`
+  To compile the program, execute `scalac src/*.scala tests/*.scala` from the root folder.
 
-  To run the tests, execute `scala khanacademy.tests.TestSuite`
+  To run the tests, execute `scala khanacademy.tests.TestSuite` from the root folder.
 
   The tests provide some basic sample code for how to use the network infection
   utility.  After creating a new `UserNetwork`, creating users, and defining
