@@ -35,3 +35,7 @@ How to Run
   update the network by choosing the best possible match without exceeding the
   given number ("price is right" strategy).  When not specified, the option
   defaults to false.
+
+  To conform to the spec, `total_infection` is treated as an alias
+  for `updateNetworkPercentage(100)`, and `limited_infection` is an alias for
+  `updateNetwork(numToUpdate, requireExactMatch)`.
